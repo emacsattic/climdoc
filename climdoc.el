@@ -5,6 +5,8 @@
 ;; Written by Larry Hunter, LHunter@nih.gov on July 27, 1999.  This is
 ;; a US Government work, and is uncopyrightable.
 
+;; License: public-domain
+
 ;; To use this program, place this file in your load path, optionally
 ;; byte-compile it, and bind the function CLIMDOC to a convenient key (I use
 ;; \C-h\z myself).
